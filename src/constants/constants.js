@@ -8,6 +8,14 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'Track.Io',
+    description: "A demo project for a online school, similar to skill share",
+    tags: ['React', 'JavaScript', 'Node'],
+    source: 'https://track-io.netlify.app/',
+    visit: 'https://track-io.netlify.app/',
+    id: 1,
+  },
+  {
     title: 'Harry Foundation',
     description: "A progress web application built for an NGO with e-commerce functionality as well improved security",
     tags: ['React', 'JavaScript', 'Node'],
@@ -61,6 +69,14 @@ export const projects = [
     tags: ['HTML5', 'JS', 'CSS', 'Blockchain'],
     source: 'https://pride-vr.netlify.app/',
     visit: 'https://pride-vr.netlify.app/',
+    id: 3,
+  },
+  {
+    title: 'CIV Journal',
+    description: "Journal built on gatsby to document your christian journey or basically any journey",
+    tags: ['HTML5', 'JS', 'CSS', 'Blockchain'],
+    source: 'https://civ-journal.netlify.app/',
+    visit: 'https://civ-journal.netlify.app/',
     id: 3,
   },
 
