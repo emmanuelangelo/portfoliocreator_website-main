@@ -40,11 +40,19 @@ export const projects = [
     id: 3,
   },
   {
-    title: 'Crypto Verse',
-    description: "Blockchain application using rapid API and also gives analytics in currencies and Dapps as well as news on crypto",
-    tags: ['HTML5', 'JS', 'CSS', 'Blockchain'],
-    source: 'https://crypto-max.netlify.app',
-    visit: 'https://crypto-max.netlify.app',
+    title: 'Coffee landing page',
+    description: "coffee landing page",
+    tags: ['HTML5', 'JS', 'CSS'],
+    source: 'https://solder-mint-dapp.vercel.app',
+    visit: 'https://solder-mint-dapp.vercel.app',
+    id: 3,
+  },
+  {
+    title: 'Minting site clone',
+    description: "NFT minting site cloned and contract built, to show proficiecy in blockchain development and engineering",
+    tags: ['HTML5', 'JS', 'CSS'],
+    source: 'https://cafestorm.netlify.app',
+    visit: 'https://cafestorm.netlify.app',
     id: 3,
   },
   {
@@ -63,6 +71,6 @@ export const TimeLineData = [
   { year: 2018, text: 'Worked as a freelance developer, developing my self and working on projects', },
   { year: 2019, text: 'Worked With My First Firm', },
   { year: 2020, text: 'Got into robotics and aero-dynamics', },
-  { year: 2021, text: 'Started my own tech firm, been making amazing thngs and meeting great people', },
-  { year: 2022, text: 'Currently on my python grind building 3D animation and motion graphics tools, in summary Opoor', },
+  { year: 2021, text: 'Started my own tech firm, been making amazing things and meeting great people', },
+  { year: 2022, text: 'Currently on my python grind building 3D animation and motion graphics tools, well as full stack developer', },
 ];
